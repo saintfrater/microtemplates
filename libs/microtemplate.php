@@ -34,8 +34,7 @@ class Microplates
 	private 	$m_template_path;
 	
 	private 	$m_line;
-	
-	
+
 	public function __construct()
 	{
 		$this->m_line=0;
