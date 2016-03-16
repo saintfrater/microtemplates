@@ -30,7 +30,7 @@ For the moment a command begin with a *#* and end with a *;*...
 
 ### post-process (render) commands
 
-'{variable_name}' : replace any *variable_name* by it's values
+`{variable_name}` : replace any *variable_name* by it's values
 
 ## Commands - php methods
 
